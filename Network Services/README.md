@@ -1,57 +1,66 @@
+DHCP, DNS, HTTP/HTTPS & FTP Network Services Lab
 
-# DHCP, DNS & HTTP/HTTPS Network Services Lab
+📌 Overview
 
-## 📌 Overview
+This Cisco Packet Tracer lab demonstrates the configuration and basic operation of important network services:
 
-This Cisco Packet Tracer lab demonstrates the configuration and basic operation of three important network services:
+- DHCP – Automatically assigns IP addresses and network settings to client PCs.
+- DNS – Resolves domain names into IP addresses.
+- HTTP/HTTPS – Allows clients to access web services through a web browser.
+- FTP – Enables file transfer between clients and an FTP server.
 
-* **DHCP** – Automatically assigns IP addresses and network settings to client PCs.
-* **DNS** – Resolves domain names into IP addresses.
-* **HTTP/HTTPS** – Allows clients to access web services through a web browser.
+🖥️ Lab Components
 
-## 🖥️ Lab Components
+- Client PCs
+- Switch
+- DHCP Server
+- DNS Server
+- Web Server
+- FTP Server
+- Ethernet connections
 
-* Client PCs
-* Switch
-* DHCP Server
-* DNS Server
-* Web Server
-* Ethernet connections
+⚙️ Services Configured
 
-## ⚙️ Services Configured
-
-### DHCP
+DHCP
 
 Configured DHCP to automatically provide client PCs with:
 
-* IP Address
-* Subnet Mask
-* Default Gateway
-* DNS Server Address
+- IP Address
+- Subnet Mask
+- Default Gateway
+- DNS Server Address
 
-### DNS
+DNS
 
-Configured DNS records to resolve the web server's domain name to its IP address.
+Configured DNS records to resolve domain names to the corresponding web server IP address.
 
-### HTTP/HTTPS
+HTTP/HTTPS
 
 Configured the Web Server and accessed the website from client PCs using the configured domain name.
 
-## 🧪 Testing
+FTP
 
-* Verified that client PCs received IP addresses through DHCP.
-* Tested DNS name resolution.
-* Accessed the web server using the configured domain name through the PC web browser.
+Configured an FTP Server and tested FTP connectivity and file-transfer functionality from a client PC.
 
-## 🎯 Skills Demonstrated
+🧪 Testing
 
-* DHCP Configuration
-* DNS Configuration
-* HTTP/HTTPS Web Services
-* IP Addressing
-* Basic Network Services Configuration
-* Cisco Packet Tracer
+- Verified that client PCs received IP addresses through DHCP.
+- Tested DNS name resolution.
+- Accessed the web server using its configured domain name.
+- Tested FTP connectivity and file-transfer functionality.
+- Used ping tests to verify network connectivity.
 
-## 🛠️ Tool
+🎯 Skills Demonstrated
 
-**Cisco Packet Tracer**
+- DHCP Configuration
+- DNS Configuration
+- HTTP/HTTPS Web Services
+- FTP Server Configuration
+- IP Addressing
+- Network Connectivity Testing
+- Basic Network Services Configuration
+- Cisco Packet Tracer
+
+🛠️ Tool
+
+Cisco Packet Tracer
