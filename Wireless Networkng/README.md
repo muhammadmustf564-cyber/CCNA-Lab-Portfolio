@@ -33,7 +33,7 @@ This lab demonstrates the configuration of a wireless network using a DHCP serve
 - Connect PCs through the switch
 - Verify communication between wired and wireless devices
 
-📁 Folder: ``
+📁 Folder: `Wireless Networkng/Wireless Network DHCP`
 
 ## 🛠️ Tools Used
 
