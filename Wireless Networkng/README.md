@@ -17,7 +17,7 @@ This lab demonstrates the configuration of a Wireless Access Point. A secure wir
 - Connect wireless clients to the network
 - Verify connectivity using ping
 
-📁 Folder: Wireless Networkng/Wireless Access Point``
+📁 Folder: Wireless Networkng/Wireless Access Point
 
 ---
 
