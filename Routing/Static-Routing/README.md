@@ -34,7 +34,7 @@ show ip route
 
 Static routes are identified by the letter S in the routing table.
 
-##🧪 Verification 
+## 🧪 Verification 
 
 Connectivity was tested using ping, and the packet path was verified using tracert.
 
@@ -46,7 +46,7 @@ PC1 → Laptop (10.0.0.4)
 
 The tests confirmed successful communication between different networks and verified the path taken by packets through the routers.
 
-📸 Screenshots
+** 📸 Screenshots **
 1. Network Topology
 
 2. Router 1 Routing Table
