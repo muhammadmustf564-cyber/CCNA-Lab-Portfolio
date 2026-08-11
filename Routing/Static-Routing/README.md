@@ -34,7 +34,7 @@ show ip route
 
 Static routes are identified by the letter S in the routing table.
 
-🧪 Verification
+##🧪 Verification 
 
 Connectivity was tested using ping, and the packet path was verified using tracert.
 
