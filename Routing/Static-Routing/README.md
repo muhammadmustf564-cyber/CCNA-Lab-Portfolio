@@ -70,10 +70,10 @@ Static routing was successfully configured and verified. Communication between d
 The routing tables, ping tests, and traceroute results confirmed that packets could successfully travel between the configured networks.
 
 📚 Key Learning
- Static Routing
-Routing Tables
-Next-Hop Routing
-Network Connectivity
-Ping Testing
-Traceroute
-Basic Network Troubleshooting
+• Static Routing
+• Routing Tables
+• Next-Hop Routing
+• Network Connectivity
+• Ping Testing
+• Traceroute
+• Basic Network Troubleshooting
