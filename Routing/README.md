@@ -7,4 +7,3 @@ Configured static routes to enable communication between different networks and 
 ### • RIP (Routing Information Protocol)
 Configured RIP on multiple routers to dynamically exchange routing information between networks. Verified RIP configuration, routing tables, and end-to-end connectivity using Cisco Packet Tracer.
 
-📁 [Routing/RIP]
