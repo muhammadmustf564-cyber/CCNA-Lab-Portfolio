@@ -49,7 +49,7 @@ ping <destination-ip>
 
 ### Network Topology
 
-![RIP Topology]()
+![RIP Topology](Routing/RIP/2-RIP-Topology.png)
 
 ### RIP Configuration
 
