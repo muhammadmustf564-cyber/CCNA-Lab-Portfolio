@@ -49,19 +49,11 @@ ping <destination-ip>
 
 ### Network Topology
 
-Routing/RIP/2-RIP-Topology.png
-
 ### RIP Configuration
-
-![RIP Configuration](RIP-Configuration.png)
 
 ### Routing Table
 
-![RIP Routing Table](RIP-Routing-Table.png)
-
 ### Successful Ping
-
-![Successful Ping](RIP-Successful-Ping.png)
 
 ## ✅ Result
 
