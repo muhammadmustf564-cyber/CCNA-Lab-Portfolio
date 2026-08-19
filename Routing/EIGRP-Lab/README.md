@@ -8,13 +8,14 @@ The lab focuses on configuring EIGRP, establishing neighbor relationships, learn
 
 ## 🎯 Objectives
 
-- Configure EIGRP on multiple routers
-- Establish EIGRP neighbor relationships
-- Advertise networks using EIGRP
-- Verify EIGRP-learned routes
-- Examine the EIGRP topology table
-- Verify interface bandwidth and delay
-- Test end-to-end connectivity
+• Configure EIGRP on multiple routers
+• Establish EIGRP neighbor relationships
+• Advertise networks using EIGRP
+• Verify EIGRP-learned routes
+• Examine the EIGRP topology table
+• Verify interface bandwidth and delay
+• Test end-to-end connectivity
+
 
 ## 🛠️ Tools Used
 
