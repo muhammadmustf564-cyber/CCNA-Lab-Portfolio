@@ -33,25 +33,25 @@ network <network-address>
 
 The following commands were used to verify the configuration and operation of EIGRP:
 
-show ip interface brief
-show running-config | section router eigrp
-show ip eigrp neighbors
-show ip route
-show ip eigrp topology
-show interfaces s0/1/0
-ping 192.168.1.3
+- show ip interface brief
+- show running-config | section router eigrp
+- show ip eigrp neighbors
+- show ip route
+- show ip eigrp topology
+- show interfaces s0/1/0
+- ping 192.168.1.3
 
 ✅ Verification
 
 The lab was verified by:
 
-Checking interface status
-Confirming EIGRP configuration
-Verifying EIGRP neighbor relationships
-Checking dynamically learned routes
-Examining the EIGRP topology table
-Checking interface bandwidth and delay values
-Testing connectivity between networks
+- Checking interface status
+- Confirming EIGRP configuration
+- Verifying EIGRP neighbor relationships
+- Checking dynamically learned routes
+- Examining the EIGRP topology table
+- Checking interface bandwidth and delay values
+- Testing connectivity between networks
 
 🏁 Result
 
