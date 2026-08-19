@@ -46,13 +46,14 @@ The following commands were used to verify the configuration and operation of EI
 
 The lab was verified by:
 
-- Checking interface status
-- Confirming EIGRP configuration
-- Verifying EIGRP neighbor relationships
-- Checking dynamically learned routes
-- Examining the EIGRP topology table
-- Checking interface bandwidth and delay values
-- Testing connectivity between networks
+• Configure EIGRP on multiple routers
+• Establish EIGRP neighbor relationships
+• Advertise networks using EIGRP
+• Verify EIGRP-learned routes
+• Examine the EIGRP topology table
+• Verify interface bandwidth and delay
+• Test end-to-end connectivity
+
 
 🏁 Result
 
