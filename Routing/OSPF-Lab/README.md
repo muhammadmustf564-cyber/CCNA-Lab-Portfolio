@@ -37,7 +37,7 @@ The lab focuses on OSPF neighbor formation, interface verification, route learni
 
 The topology contains six routers divided into two OSPF areas.
 
-![OSPF Network Topology](Screenshots/OSPF-Topology.png)
+![OSPF Network Topology](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Routing/OSPF-Lab/OSPF/OSPF-Topology.png)
 
 ---
 
