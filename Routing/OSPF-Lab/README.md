@@ -37,9 +37,6 @@ The lab focuses on OSPF neighbor formation, interface verification, route learni
 
 The topology contains six routers divided into two OSPF areas.
 
-![OSPF Network Topology](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Routing/OSPF-Lab/OSPF/OSPF-Topology.png)
-
----
 
 ## 🔷 OSPF Area Design
 
@@ -118,17 +115,9 @@ Used to verify the OSPF routing process and area configuration.
 
 ### Router1 — OSPF Verification
 
-![Router1 OSPF Verification](Screenshots/Router1-OSPF-Verification.png)
-
 ### Router2 — OSPF Verification
 
-![Router2 OSPF Verification](Screenshots/Router2-OSPF-Verification.png)
-
 ### Router4 — OSPF ABR Verification
-
-![Router4 OSPF Verification](Screenshots/Router4-OSPF-Verification.png)
-
----
 
 ## 🧠 Key Concepts Demonstrated
 
