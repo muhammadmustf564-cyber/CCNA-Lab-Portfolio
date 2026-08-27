@@ -1,5 +1,5 @@
-##### OSPF ↔ RIP Redistribution Using ASBR
-📌 Lab Overview
+### OSPF ↔ RIP Redistribution Using ASBR
+## 📌 Lab Overview
 
 This lab demonstrates route redistribution between OSPF and RIP using an ASBR (Autonomous System Boundary Router).
 
