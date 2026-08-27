@@ -70,7 +70,7 @@ ping 1.1.1.1
 - 03-OSPF-RIP-Running-Config.png — OSPF and RIP redistribution configuration
 - 04-OSPF-Neighbors.png — OSPF neighbor verification
 - 05-Show-IP-Protocols.png — Routing protocol verification
-- 06-Ping-RIP-7.7.7.7.png — Connectivity to RIP network
+- 06-Ping-RIP-30.0.0.1.png — Connectivity to RIP network
 - 07-Ping-OSPF-1.1.1.1.png — Connectivity to OSPF network
   
 ## 🛠️ Tools
