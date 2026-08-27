@@ -7,8 +7,10 @@ Configured static routes to enable communication between different networks and 
 ### • RIP (Routing Information Protocol)
 Configured RIP on multiple routers to dynamically exchange routing information between networks. Verified RIP configuration, routing tables, and end-to-end connectivity using Cisco Packet Tracer.
 
+
 ### EIGRP Routing
 Configured and verified EIGRP in a multi-router network using Cisco Packet Tracer, including dynamic route learning, neighbor relationships, routing table verification, and connectivity testing.
+
 
 ### OSPF Routing
 
@@ -18,11 +20,12 @@ The lab demonstrates **OSPF Area 0 (Backbone Area), Area 1, OSPF neighbor relati
 
 **Topics:** OSPF | Area 0 | Area 1 | ABR | Dynamic Routing | IPv4
 
-### - OSPF-RIP Redistribution Using ASBR
+
+###  OSPF-RIP Redistribution Using ASBR
 
 This lab demonstrates **route redistribution between OSPF and RIP using an ASBR (Autonomous System Boundary Router) in Cisco Packet Tracer**.
 
-**R0 acts as the ASBR and redistributes:**
+**R0** acts as the ASBR and redistributes:
 
 **- RIP routes → OSPF**
 **- OSPF routes → RIP**
