@@ -17,7 +17,7 @@ The network is divided into two routing domains:
 - Redistribute OSPF routes into RIP
 - Verify routing tables and OSPF neighbors
 - Test end-to-end connectivity between both routing domains
-- 
+  
 ## 🌐 Network Design
               OSPF Area 0
 
