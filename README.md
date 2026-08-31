@@ -1,44 +1,44 @@
-🌐 CCNA Lab Portfolio
+# 🌐 CCNA Lab Portfolio
 
-A hands-on Cisco Networking and CCNA lab portfolio created using Cisco Packet Tracer to practice and demonstrate practical networking skills.
+A hands-on **Cisco Networking and CCNA lab portfolio** created using **Cisco Packet Tracer** to practice and demonstrate practical networking skills.
 
-This repository contains practical labs covering different areas of Cisco networking, including basic networking, network services, wireless networking, routing, switching, and network security.
+This repository contains practical labs covering different areas of Cisco networking, including **basic networking, network services, wireless networking, routing, switching, and network security.**
 
-The purpose of this portfolio is to build strong practical networking skills through configuration, testing, troubleshooting, and documentation.
+The purpose of this portfolio is to build strong practical networking skills through **configuration, testing, troubleshooting, and documentation.**
 
 ---
 
-📚 Portfolio Sections
+### 📚 Portfolio Sections
 
-🔹 Basic Networking
+## 🔹 Basic Networking
 
 Practical labs covering fundamental networking concepts, device configuration, IP addressing, subnetting, and connectivity testing.
 
-Status: ✅ Complete
+**Status:** ✅ Complete
 
 ---
 
-🔹 Network Services
+## 🔹 Network Services
 
 Practical implementation and testing of common network services such as DHCP, DNS, FTP, HTTP/HTTPS, and Email services.
 
-Status: ✅ Complete
+**Status:** ✅ Complete
 
 ---
 
-🔹 Wireless Networking
+## 🔹 Wireless Networking
 
 Hands-on wireless networking labs involving wireless devices, access points, clients, and wireless connectivity.
 
-Status: ✅ Complete
+**Status:** ✅ Complete
 
 ---
 
-🔹 Routing
+## 🔹 Routing
 
 Practical routing labs covering different routing technologies and troubleshooting scenarios.
 
-Topics completed include:
+**Topics Completed Include:**
 
 - Static Routing
 - RIP
@@ -49,32 +49,32 @@ Topics completed include:
 - Routing Verification & Troubleshooting
 - OSPF and RIP Redistribution
 
-Status: ✅ Complete
+**Status:** ✅ Complete
 
 ---
 
-🔹 Switching
+## 🔹 Switching
 
 Switching labs will be added to the portfolio as I progress through the switching section of my CCNA studies.
 
-Status: ⏳ Not Started
+**Status:** ⏳ Not Started
 
 ---
 
-🔹 Network Security
+## 🔹 Network Security
 
 Network security labs will be added separately after completing the relevant networking and switching sections.
 
-Status: ⏳ Not Started
+**Status:** ⏳ Not Started
 
 ---
 
-🧪 Lab Environment
+## 🧪 Lab Environment
 
 The labs are primarily created and tested using:
 
-- Cisco Packet Tracer
-- Cisco IOS CLI
+-**Cisco Packet Tracer**
+-**Cisco IOS CLI**
 - Cisco Routers
 - Cisco Switches
 - PCs
@@ -83,7 +83,7 @@ The labs are primarily created and tested using:
 
 ---
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This portfolio is focused on developing practical skills in:
 
@@ -100,7 +100,7 @@ This portfolio is focused on developing practical skills in:
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 CCNA-Lab-Portfolio/
 │
@@ -112,9 +112,9 @@ CCNA-Lab-Portfolio/
 
 ---
 
-📈 Current Progress
+## 📈 Current Progress
 
-Section| Status
+**Section**| **Status**
 Basic Networking| ✅ Complete
 Network Services| ✅ Complete
 Wireless Networking| ✅ Complete
@@ -124,20 +124,20 @@ Network Security| ⏳ Not Started
 
 ---
 
-🚀 Next Step
+## 🚀 Next Step
 
 The next section of this portfolio is:
 
-➡️ Switching
+**➡️ Switching**
 
 New switching labs will be added as they are completed and documented.
 
 ---
 
-👨‍💻 About
+## 👨‍💻 About
 
-This portfolio represents my practical learning journey in Cisco Networking and CCNA technologies through hands-on lab practice.
+This portfolio represents my practical learning journey in **Cisco Networking and CCNA technologies** through hands-on lab practice.
 
-«Learn → Configure → Test → Troubleshoot → Document»
+**«Learn → Configure → Test → Troubleshoot → Document»**
 
-⭐ This repository is continuously updated as new labs are completed.
+⭐ This repository is continuously updated as new CCNA labs are completed.
