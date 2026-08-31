@@ -154,7 +154,7 @@ VLAN-and-Trunking/
 │   └── 04-Ping-Verification.png
 │
 ├── README.md
-└── VLAN-and-Trunking.pkt
+└── VLAN_and_Trunking.pkt
 ```
 
 
