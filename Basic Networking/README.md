@@ -1,4 +1,4 @@
-#🌐 Basic Networking
+# 🌐 Basic Networking
 
 This section contains fundamental Cisco networking labs focused on creating basic network topologies, configuring IP addresses, connecting network devices, and verifying connectivity.
 
