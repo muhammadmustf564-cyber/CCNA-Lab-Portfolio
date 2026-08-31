@@ -1,4 +1,4 @@
-# VLAN & Trunking — Cisco Packet Tracer
+# VLAN and Trunking — Cisco Packet Tracer
 
 > **A practical switching lab demonstrating VLAN segmentation, trunking, and inter-switch connectivity using Cisco Packet Tracer.**
 
