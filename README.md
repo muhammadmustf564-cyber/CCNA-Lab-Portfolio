@@ -8,9 +8,9 @@ The purpose of this portfolio is to build strong practical networking skills thr
 
 ---
 
-### 📚 Portfolio Sections
+## 📚 Portfolio Sections
 
-## 🔹 Basic Networking
+### 🔹 Basic Networking
 
 Practical labs covering fundamental networking concepts, device configuration, IP addressing, subnetting, and connectivity testing.
 
@@ -18,7 +18,7 @@ Practical labs covering fundamental networking concepts, device configuration, I
 
 ---
 
-## 🔹 Network Services
+### 🔹 Network Services
 
 Practical implementation and testing of common network services such as DHCP, DNS, FTP, HTTP/HTTPS, and Email services.
 
@@ -26,7 +26,7 @@ Practical implementation and testing of common network services such as DHCP, DN
 
 ---
 
-## 🔹 Wireless Networking
+### 🔹 Wireless Networking
 
 Hands-on wireless networking labs involving wireless devices, access points, clients, and wireless connectivity.
 
@@ -34,7 +34,7 @@ Hands-on wireless networking labs involving wireless devices, access points, cli
 
 ---
 
-## 🔹 Routing
+### 🔹 Routing
 
 Practical routing labs covering different routing technologies and troubleshooting scenarios.
 
@@ -53,7 +53,7 @@ Practical routing labs covering different routing technologies and troubleshooti
 
 ---
 
-## 🔹 Switching
+### 🔹 Switching
 
 Switching labs will be added to the portfolio as I progress through the switching section of my CCNA studies.
 
@@ -61,7 +61,7 @@ Switching labs will be added to the portfolio as I progress through the switchin
 
 ---
 
-## 🔹 Network Security
+### 🔹 Network Security
 
 Network security labs will be added separately after completing the relevant networking and switching sections.
 
