@@ -80,7 +80,7 @@ Printer ─────┤
    Wireless Access Point
              ↓
       Wireless Network
-'''
+      
 ---
 
 The Access Point provides wireless connectivity, while the configured SSID allows clients to identify and connect to the network.
@@ -106,6 +106,7 @@ It helped strengthen my understanding of how wireless devices connect to an Acce
 ## 📁 Lab Files
 
 '''Wireless Access Point.pkt'''
+
 '''README.md'''
 
 ## Tool: Cisco Packet Tracer
