@@ -1,21 +1,21 @@
 ## 📚 Labs
 
-```### • Static Routing```
+### ```• Static Routing```
 Configured static routes to enable communication between different networks and verified connectivity using ping and traceroute.
 
 
 
-### • RIP (Routing Information Protocol)
+### ```• RIP (Routing Information Protocol)```
 Configured RIP on multiple routers to dynamically exchange routing information between networks. Verified RIP configuration, routing tables, and end-to-end connectivity using Cisco Packet Tracer.
 
 
 
-### EIGRP Routing
+### ```- EIGRP Routing```
 Configured and verified EIGRP in a multi-router network using Cisco Packet Tracer, including dynamic route learning, neighbor relationships, routing table verification, and connectivity testing.
 
 
 
-### OSPF Routing
+### ```- OSPF Routing```
 
 This folder contains my **OSPF multi-area routing lab** created in Cisco Packet Tracer.
 
@@ -26,7 +26,7 @@ The lab demonstrates **OSPF Area 0 (Backbone Area), Area 1, OSPF neighbor relati
 
 
 
-###  OSPF-RIP Redistribution Using ASBR
+### ```- OSPF-RIP Redistribution Using ASBR```
 
 This lab demonstrates **route redistribution between OSPF and RIP using an ASBR (Autonomous System Boundary Router) in Cisco Packet Tracer**.
 
