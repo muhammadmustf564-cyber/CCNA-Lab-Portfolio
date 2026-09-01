@@ -25,12 +25,11 @@ Connectivity was verified using ping and traceroute to confirm successful end-to
 
 Static routes were configured on the routers using the following command:
 
-```bash
-ip route <destination-network> <subnet-mask> <next-hop-ip>
+```ip route <destination-network> <subnet-mask> <next-hop-ip>```
 
 The routing tables were verified using:
 
-show ip route
+**show ip route**
 
 Static routes are identified by the letter S in the routing table.
 
