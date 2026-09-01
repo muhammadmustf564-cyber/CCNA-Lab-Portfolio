@@ -69,9 +69,7 @@ The following tests were successfully performed:
 
 ## 🔄 How the Wireless Network Works
 
-'''
-text
-
+```text
 Laptop ──────┐
 Smartphone ──┤
 Tablet ──────┤
@@ -80,8 +78,7 @@ Printer ─────┤
    Wireless Access Point
              ↓
       Wireless Network
-      
----
+```
 
 The Access Point provides wireless connectivity, while the configured SSID allows clients to identify and connect to the network.
 
@@ -105,9 +102,9 @@ It helped strengthen my understanding of how wireless devices connect to an Acce
 
 ## 📁 Lab Files
 
-'''Wireless Access Point.pkt'''
+```Wireless Access Point.pkt```
 
-'''README.md'''
+```README.md```
 
 ## Tool: Cisco Packet Tracer
 
