@@ -111,7 +111,7 @@ It strengthened my understanding of:
 
 ## 📁 Lab Files
 
-- "DHCP-DNS-HTTP-HTTPS.pkt"
+- "DHCP-DNS-HTTP-Server.pkt"
 - "README.md"
 
 ---
