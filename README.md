@@ -101,7 +101,8 @@ This portfolio is focused on developing practical skills in:
 ---
 
 ## 📂 Repository Structure
-
+```
+text
 CCNA-Lab-Portfolio/
 │
 ├── Basic-Networking/
@@ -109,6 +110,7 @@ CCNA-Lab-Portfolio/
 ├── Routing/
 ├── Wireless-Networking/
 └── README.md
+```
 
 ---
 
