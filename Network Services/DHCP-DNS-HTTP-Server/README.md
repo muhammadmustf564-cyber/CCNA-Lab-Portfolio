@@ -1,35 +1,120 @@
 # 🌐 DHCP, DNS & HTTP Server Lab
 
-## Objective
+📌 Overview
 
-Configure and test DHCP, DNS, and HTTP services in a Cisco Packet Tracer network.
+This lab focuses on configuring and testing essential network services using Cisco Packet Tracer.
 
-## Devices Used
+The main goal was to understand how DHCP, DNS, and Web Services work together to provide automatic IP configuration, domain name resolution, and web access within a network.
 
-- Router
-- Switch
-- PCs
-- Server
+---
 
-## Services Configured
+🎯 Objectives
 
-- DHCP – Automatically assigns IP addresses to PCs.
-- DNS – Resolves domain names into IP addresses.
-- HTTP – Hosts and provides access to a web page.
+- Configure DHCP for automatic IP addressing
+- Configure DNS for domain name resolution
+- Configure a Web Server for HTTP/HTTPS access
+- Configure and verify network connectivity
+- Test web access using a domain name
+- Practice basic network troubleshooting
 
-## Configuration
+---
 
-- Configured DHCP service on the server
-- Configured DNS records
-- Configured HTTP service and web page
-- Configured PCs to obtain IP addresses through DHCP
-- Tested network and service connectivity
+🛠️ Technologies & Services
 
-## Verification
+- Cisco Packet Tracer
+- DHCP
+- DNS
+- HTTP
+- HTTPS
+- IP Addressing
+- Basic Network Troubleshooting
 
-- Verified automatic IP assignment using DHCP
-- Tested DNS name resolution
-- Accessed the hosted webpage through a PC web browser
+---
+
+⚙️ Lab Configuration
+
+🔹 DHCP
+
+Configured DHCP to automatically provide client PCs with:
+
+- IP Address
+- Subnet Mask
+- Default Gateway
+- DNS Server
+
+🔹 DNS
+
+Configured DNS to associate a domain name with the Web Server's IP address, allowing clients to access the server using a domain name instead of an IP address.
+
+🔹 Web Server
+
+Configured a Web Server and enabled:
+
+- HTTP
+- HTTPS
+
+🔹 Client Testing
+
+Configured client PCs to obtain their network settings through DHCP and tested connectivity to the Web Server.
+
+---
+
+🧪 Verification & Testing
+
+The following tests were successfully performed:
+
+- ✅ DHCP successfully assigned IP configuration
+- ✅ Client connectivity verified
+- ✅ DNS successfully resolved the configured domain
+- ✅ Web Server successfully configured
+- ✅ HTTP access tested successfully
+- ✅ HTTPS access tested successfully
+- ✅ Basic troubleshooting performed
+
+---
+
+🔄 How the Services Work Together
+
+Client PC
+   ↓
+DHCP
+   ↓
+Gets IP Configuration
+   ↓
+DNS
+   ↓
+Resolves Domain Name
+   ↓
+Web Server
+   ↓
+HTTP / HTTPS
+   ↓
+Web Page
+
+This demonstrates a basic real-world workflow where a client receives its network configuration automatically, resolves a domain name through DNS, and then accesses a web service.
+
+---
+
+💡 Key Learning
+
+This lab provided practical experience with the relationship between DHCP, DNS, and Web Services.
+
+It strengthened my understanding of:
+
+- Automatic IP address assignment
+- Domain name resolution
+- Client-server communication
+- HTTP/HTTPS web access
+- Basic network service troubleshooting
+
+---
+
+📁 Lab Files
+
+- "DHCP-DNS-HTTP-HTTPS.pkt"
+- "README.md"
+
+---
 
 ## Result
 
