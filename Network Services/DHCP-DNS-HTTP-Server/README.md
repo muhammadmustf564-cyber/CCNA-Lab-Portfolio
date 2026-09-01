@@ -1,6 +1,6 @@
 # 🌐 DHCP, DNS & HTTP Server Lab
 
-📌 Overview
+## 📌 Overview
 
 This lab focuses on configuring and testing essential network services using Cisco Packet Tracer.
 
@@ -8,7 +8,7 @@ The main goal was to understand how DHCP, DNS, and Web Services work together to
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Configure DHCP for automatic IP addressing
 - Configure DNS for domain name resolution
@@ -19,7 +19,7 @@ The main goal was to understand how DHCP, DNS, and Web Services work together to
 
 ---
 
-🛠️ Technologies & Services
+## 🛠️ Technologies & Services
 
 - Cisco Packet Tracer
 - DHCP
@@ -31,9 +31,9 @@ The main goal was to understand how DHCP, DNS, and Web Services work together to
 
 ---
 
-⚙️ Lab Configuration
+## ⚙️ Lab Configuration
 
-🔹 DHCP
+### 🔹 DHCP
 
 Configured DHCP to automatically provide client PCs with:
 
@@ -42,24 +42,24 @@ Configured DHCP to automatically provide client PCs with:
 - Default Gateway
 - DNS Server
 
-🔹 DNS
+### 🔹 DNS
 
 Configured DNS to associate a domain name with the Web Server's IP address, allowing clients to access the server using a domain name instead of an IP address.
 
-🔹 Web Server
+### 🔹 Web Server
 
 Configured a Web Server and enabled:
 
 - HTTP
 - HTTPS
 
-🔹 Client Testing
+### 🔹 Client Testing
 
 Configured client PCs to obtain their network settings through DHCP and tested connectivity to the Web Server.
 
 ---
 
-🧪 Verification & Testing
+## 🧪 Verification & Testing
 
 The following tests were successfully performed:
 
@@ -73,7 +73,7 @@ The following tests were successfully performed:
 
 ---
 
-🔄 How the Services Work Together
+## 🔄 How the Services Work Together
 
 Client PC
    ↓
@@ -95,7 +95,7 @@ This demonstrates a basic real-world workflow where a client receives its networ
 
 ---
 
-💡 Key Learning
+## 💡 Key Learning
 
 This lab provided practical experience with the relationship between DHCP, DNS, and Web Services.
 
@@ -109,7 +109,7 @@ It strengthened my understanding of:
 
 ---
 
-📁 Lab Files
+## 📁 Lab Files
 
 - "DHCP-DNS-HTTP-HTTPS.pkt"
 - "README.md"
