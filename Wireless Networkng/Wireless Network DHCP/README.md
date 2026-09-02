@@ -66,6 +66,17 @@ The assigned IP addresses were verified and connectivity was tested using **ping
 
 ---
 
+## ✅ Result
+
+The wireless network was **successfully configured and tested**.
+
+* **DHCP Server:** Successfully assigned IP addresses dynamically to connected devices.
+* **Wireless Access Point:** Successfully provided wireless connectivity to the laptop.
+* **Connectivity:** Communication between the **wired PC and wireless laptop** was successfully verified using `ping`.
+* **Network Status:** All connectivity tests were successful.
+  
+---
+
 ## 🌐 Network Flow
 
 ```text
@@ -139,12 +150,12 @@ The lab also provided hands-on practice with:
 
 ---
 
-## ✅ Result
+## 🎯 Purpose
 
-The wireless network was **successfully configured and tested**.
+The purpose of this lab is to understand how **DHCP** and **wireless networking** work together to provide **automatic IP configuration** and **network connectivity**.
 
-* **DHCP Server:** Successfully assigned IP addresses dynamically to connected devices.
-* **Wireless Access Point:** Successfully provided wireless connectivity to the laptop.
-* **Connectivity:** Communication between the **wired PC and wireless laptop** was successfully verified using `ping`.
-* **Network Status:** All connectivity tests were successful.
+In this lab, a **DHCP Server** was configured to dynamically assign **IP addresses** to clients, while a **Wireless Access Point** provided **wireless connectivity**.
+
+> 🎯 **Goal:** Establish successful communication between **wired and wireless devices** within the same network.
+
 
