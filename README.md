@@ -108,6 +108,7 @@ CCNA-Lab-Portfolio/
 ├── Basic-Networking/
 ├── Network-Services/
 ├── Routing/
+├── Switching/
 ├── Wireless-Networking/
 └── README.md
 ```
