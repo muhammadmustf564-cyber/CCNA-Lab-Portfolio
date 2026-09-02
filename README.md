@@ -116,7 +116,8 @@ CCNA-Lab-Portfolio/
 ---
 
 ## 📈 Current Progress
-
+```
+text
 **Section**| **Status**
 Basic Networking| ✅ Complete
 Network Services| ✅ Complete
@@ -124,6 +125,7 @@ Wireless Networking| ✅ Complete
 Routing| ✅ Complete
 Switching| ⏳ Not Started
 Network Security| ⏳ Not Started
+```
 
 ---
 
