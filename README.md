@@ -117,7 +117,6 @@ CCNA-Lab-Portfolio/
 
 ## 📈 Current Progress
 ```
-text
 
 **Section**| **Status**
 Basic Networking| ✅ Complete
