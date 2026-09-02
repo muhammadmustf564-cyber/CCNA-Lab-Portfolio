@@ -125,7 +125,7 @@ Wireless Networking| ✅ Complete
 Routing| ✅ Complete
 Switching| ⏳ Not Started
 Network Security| ⏳ Not Started
-```
+
 
 ---
 
