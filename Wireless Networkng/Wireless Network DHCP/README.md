@@ -120,19 +120,11 @@ The lab also provided hands-on practice with:
 
 ### 🔹 Network Topology
 
-![Network Topology](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Wireless%20Networkng/Wireless%20Network%20DHCP/02-Newtork%20topology.png)
-
 ### 🔹 DHCP Server Configuration
-
-![DHCP Server Configuration](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Wireless%20Networkng/Wireless%20Network%20DHCP/03-DHCP%20server%20configuration.png)
 
 ### 🔹 Access Point Configuration
 
-![Access Point Configuration](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Wireless%20Networkng/Wireless%20Network%20DHCP/04-Access%20point%20configuration.png)
-
 ### 🔹 Dynamic IP Configuration
-
-![Dynamic IP Configuration](https://github.com/muhammadmustf564-cyber/CCNA-Lab-Portfolio/blob/main/Wireless%20Networkng/Wireless%20Network%20DHCP/05-Dynamic%20ip%20configuration.png)
 
 ---
 
@@ -147,9 +139,12 @@ The lab also provided hands-on practice with:
 
 ---
 
-## 🚀 CCNA Lab Journey
+## ✅ Result
 
-Continuing my hands-on **CCNA Lab Journey** to strengthen practical networking, configuration, and troubleshooting skills.
+The wireless network was **successfully configured and tested**.
 
----
+* **DHCP Server:** Successfully assigned IP addresses dynamically to connected devices.
+* **Wireless Access Point:** Successfully provided wireless connectivity to the laptop.
+* **Connectivity:** Communication between the **wired PC and wireless laptop** was successfully verified using `ping`.
+* **Network Status:** All connectivity tests were successful.
 
