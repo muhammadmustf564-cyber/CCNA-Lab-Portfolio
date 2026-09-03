@@ -18,8 +18,10 @@ The network consists of **four switches**, each configured with a specific VTP r
    │ Switch0  │────│   Switch1    │────│ Switch2│────│ Switch3│
    │  SERVER  │    │ TRANSPARENT  │    │ CLIENT │    │ CLIENT │
    └──────────┘    └──────────────┘    └─────────┘    └─────────┘
-
+```
 ---
+
+
 ## ⚙️ VTP Configuration
 
 | 🖥️ Switch | 🔐 VTP Mode | 🏷️ VLANs |
