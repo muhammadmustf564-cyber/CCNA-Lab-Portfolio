@@ -23,7 +23,7 @@ The network consists of **four switches**, each configured with a specific VTP r
 ## ⚙️ VTP Configuration
 
 | 🖥️ Switch | 🔐 VTP Mode | 🏷️ VLANs |
-|:----------:|:-----------:|:---------:|
+|---|---|---|
 | **Switch0** | 🟢 Server | 10, 20, 30, 40, 50 |
 | **Switch1** | 🟡 Transparent | 30, 50, 60, 70, 80 |
 | **Switch2** | 🔵 Client | 10, 20, 30, 40, 50 |
@@ -69,36 +69,67 @@ The following Cisco IOS commands were used to verify the lab:
 
 ```bash
 show vtp status
+```
+
+```bash
+show vlan brief
+```
+
+```bash
+show interfaces trunk
+```
 
 These commands were used to verify:
 
-✅ VTP operating mode
-✅ VLAN information
-✅ VLAN availability on switches
-✅ Trunk connectivity
-📸 Lab Screenshots
-🗺️ Network Topology
+- ✅ VTP operating mode
+- ✅ VLAN information
+- ✅ VLAN availability on switches
+- ✅ Trunk connectivity
 
-🟢 VTP Server
+---
 
-🟡 VTP Transparent
+## 📸 Lab Screenshots
 
-🔵 VTP Client 1
+### 🗺️ Network Topology
 
-🔵 VTP Client 2
+![VTP Topology](Topology/VTP_Topology.png)
 
-🔗 Trunk Verification
+### 🟢 VTP Server
 
-📚 Key Takeaways
+![VTP Server](Screenshots/VTP_Server.png)
 
-💡 This lab helped me understand the practical use of VTP in VLAN management, the difference between Server, Transparent, and Client modes, and the importance of trunk links for switch-to-switch communication.
+### 🟡 VTP Transparent
 
-🛠️ Technologies & Concepts
+![VTP Transparent](Screenshots/VTP_Transparent.png)
 
-Cisco Packet Tracer • Cisco IOS • VLAN • VTP • 802.1Q Trunking
+### 🔵 VTP Client 1
 
-📁 Lab File
+![VTP Client 1](Screenshots/VTP_Client1.png)
+
+### 🔵 VTP Client 2
+
+![VTP Client 2](Screenshots/VTP_Client2.png)
+
+### 🔗 Trunk Verification
+
+![Trunk Verification](Screenshots/VTP_Trunk.png)
+
+---
+
+## 📚 Key Takeaways
+
+> 💡 This lab helped me understand the practical use of **VTP in VLAN management**, the difference between **Server, Transparent, and Client modes**, and the importance of **trunk links** for switch-to-switch communication.
+
+---
+
+## 🛠️ Technologies & Concepts
+
+`Cisco Packet Tracer` • `Cisco IOS` • `VLAN` • `VTP` • `802.1Q Trunking`
+
+---
+
+## 📁 Lab File
 
 The complete Packet Tracer project is included in this repository:
 
-VTP_Lab.pkt
+**`VTP_Lab.pkt`**
