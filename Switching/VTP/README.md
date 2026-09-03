@@ -94,27 +94,15 @@ These commands were used to verify:
 
 ### 🗺️ Network Topology
 
-![VTP Topology](Topology/VTP_Topology.png)
-
 ### 🟢 VTP Server
-
-![VTP Server](Screenshots/VTP_Server.png)
 
 ### 🟡 VTP Transparent
 
-![VTP Transparent](Screenshots/VTP_Transparent.png)
-
 ### 🔵 VTP Client 1
-
-![VTP Client 1](Screenshots/VTP_Client1.png)
 
 ### 🔵 VTP Client 2
 
-![VTP Client 2](Screenshots/VTP_Client2.png)
-
 ### 🔗 Trunk Verification
-
-![Trunk Verification](Screenshots/VTP_Trunk.png)
 
 ---
 
