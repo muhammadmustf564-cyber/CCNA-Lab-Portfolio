@@ -169,10 +169,10 @@ The following screenshots provide evidence of the configuration and verification
     STP_VLAN_Lab/
     │
     ├── STP_VLAN_Lab.pkt
-    ├── stp_topology.png
     ├── stp_show_spanning_tree_1.png
     ├── stp_show_spanning_tree_2.png
-    ├── stp_trunk.png
+    ├── stp_topology.png
+    ├── stp_trunk.png 
     ├── vlan_brief.png
     └── README.md
 
