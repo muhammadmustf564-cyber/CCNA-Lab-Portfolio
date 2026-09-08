@@ -19,3 +19,10 @@ The lab also includes verification of **VTP status, VLAN information, and trunk 
 ### 🎯 Key Learning
 
 Gained practical experience with **VTP modes, VLAN management, VLAN propagation, and trunking** in a Cisco switching environment.
+
+
+# ```STP & VLAN Configuration Lab```
+
+Configured and verified **VLANs, trunk links, and Spanning Tree Protocol (STP)** on a redundant Cisco switching topology using Packet Tracer. The lab demonstrates **Layer 2 loop prevention, Root Bridge selection, port roles, and alternate/blocking paths**.
+
+**Tools:** Cisco Packet Tracer | Cisco IOS
