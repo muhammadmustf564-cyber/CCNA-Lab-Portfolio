@@ -55,9 +55,17 @@ Practical routing labs covering different routing technologies and troubleshooti
 
 ### 🔹 Switching
 
-Switching labs will be added to the portfolio as I progress through the switching section of my CCNA studies.
+Practical switching labs covering VLAN configuration, trunking, VLAN management, and Spanning Tree Protocol.
 
-**Status:** ⏳ Not Started
+**Topics Completed Include:**
+
+VLAN Configuration
+VLAN & Trunking
+VTP
+Spanning Tree Protocol (STP)
+Switching Verification & Troubleshooting
+
+**Status:** 🔄 In Progress
 
 ---
 
@@ -127,14 +135,13 @@ Switching| ⏳ Not Started
 Network Security| ⏳ Not Started
 ```
 ---
-
 ## 🚀 Next Step
 
-The next section of this portfolio is:
+The current focus of this portfolio is:
 
 **➡️ Switching**
 
-New switching labs will be added as they are completed and documented.
+More switching labs will be added as I continue progressing through my CCNA studies.
 
 ---
 
