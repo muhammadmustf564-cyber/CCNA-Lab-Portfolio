@@ -26,3 +26,13 @@ Gained practical experience with **VTP modes, VLAN management, VLAN propagation,
 Configured and verified **VLANs, trunk links, and Spanning Tree Protocol (STP)** on a redundant Cisco switching topology using Packet Tracer. The lab demonstrates **Layer 2 loop prevention, Root Bridge selection, port roles, and alternate/blocking paths**.
 
 **Tools:** Cisco Packet Tracer | Cisco IOS
+
+
+# ```🔗 EtherChannel Lab```
+
+A hands-on Cisco Packet Tracer lab demonstrating the configuration and verification of **EtherChannel** between Cisco switches. Multiple physical links were bundled into a single logical **Port-Channel** and configured as a trunk to carry traffic from multiple VLANs.
+
+The lab includes **VLAN configuration, EtherChannel formation, trunk verification, connectivity testing, and failover testing** by shutting down a member link. The remaining links maintained connectivity, demonstrating EtherChannel **redundancy and fault tolerance**.
+
+**Skills:** EtherChannel · Port-Channel · VLANs · Trunking · Redundancy · Failover Testing · Cisco IOS Verification
+
