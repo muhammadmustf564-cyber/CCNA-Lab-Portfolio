@@ -36,3 +36,7 @@ The lab includes **VLAN configuration, EtherChannel formation, trunk verificatio
 
 **Skills:** EtherChannel · Port-Channel · VLANs · Trunking · Redundancy · Failover Testing · Cisco IOS Verification
 
+
+# ```Inter-VLAN Routing```
+
+Configured **VLAN 10, 20, and 30** across two switches with different IP subnets and enabled communication between VLANs using **Router-on-a-Stick** and **router sub-interfaces**. Verified connectivity through successful ping tests.
