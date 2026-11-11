@@ -4,11 +4,11 @@ This section contains practical networking security labs implemented using Cisco
 
 ## Labs
 
-### 1. Port Security
+### .Port Security
 Implemented switch port security using sticky MAC addresses, maximum MAC address limits, and shutdown violation mode to prevent unauthorized device access.
 
 
-### 2. Standard ACL
+### .Standard ACL
 Implemented Standard Access Control Lists to restrict traffic from specific networks and hosts while allowing permitted traffic.
 
 ## Skills Covered
