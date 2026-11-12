@@ -1,4 +1,4 @@
-### EtherChannel Lab
+# EtherChannel Lab
 
  **CCNA Switching Lab | Cisco Packet Tracer**
 
