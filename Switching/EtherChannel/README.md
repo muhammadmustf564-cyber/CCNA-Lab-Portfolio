@@ -1,7 +1,6 @@
-```markdown
-# 🔗 EtherChannel Lab
+#🔗 EtherChannel Lab
 
-> **CCNA Switching Lab | Cisco Packet Tracer**
+ **CCNA Switching Lab | Cisco Packet Tracer**
 
 ## 📌 Overview
 
